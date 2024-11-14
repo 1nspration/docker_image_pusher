@@ -1,5 +1,6 @@
 nginx
 mysql:8.0.39-debian
+xuxueli/xxl-job-admin
 jenkins/jenkins:lts
 mzz2017/v2raya
 # registry.k8s.io/kube-apiserver
